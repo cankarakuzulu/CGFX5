@@ -1,0 +1,3 @@
+/home/cankarakuzulu/Dev/Vendor/CGFX5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cankarakuzulu/Dev/Vendor/CGFX5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cankarakuzulu/Dev/Vendor/CGFX5/cmake-build-debug/CMakeFiles/CGFX5.dir
